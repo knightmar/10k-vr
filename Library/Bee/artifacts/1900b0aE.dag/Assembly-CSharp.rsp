@@ -432,7 +432,8 @@
 "Assets/Mirror/Transports/KCP/MirrorTransport/KcpTransport.cs"
 "Assets/Mirror/Transports/Latency/LatencySimulation.cs"
 "Assets/Mirror/Transports/Telepathy/TelepathyTransport.cs"
-"Assets/XRPlatformControllerSetup.cs"
+"Assets/Scripts/Network.cs"
+"Assets/Scripts/XRPlatformControllerSetup.cs"
 -langversion:9.0
 
 /deterministic
